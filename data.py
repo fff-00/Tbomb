@@ -1,6 +1,4 @@
-# Encoded By PyEncryptor
-# A Product Of ToxicNoob
-# https://github.com/Toxic-Noob
+
 
 import marshal
 import base64
